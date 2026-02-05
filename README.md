@@ -45,7 +45,7 @@ Clone the repository:
 git clone https://github.com/Wahab-Al/Fashion-backend-server.git
 
 ## Navigate to the project directory: 📂
-cd 
+cd Fashion-Backend-Server
 
 ## Run the application: ▶️
 npm install
